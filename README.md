@@ -34,7 +34,6 @@ Developed by: SURYA R
 RegisterNumber: 23013019
 '''
 
-# To print X matrix (solution to the equations)
 from scipy.linalg import lu_factor,lu_solve
 import numpy as np
 arr=eval(input())
@@ -47,7 +46,8 @@ print(solution)
 
 ## Output:
 ![Screenshot 2023-12-20 105254](https://github.com/SuryaR03/LU-Decomposition/assets/147140237/b98d4926-7c53-4e43-8949-12f6ce81de74)
-![Screenshot 2023-12-20 105254](https://github.com/SuryaR03/LU-Decomposition/assets/147140237/e6402674-0ca0-46bb-a1b6-881c28945aa0)
+![Screenshot 2023-12-20 110224](https://github.com/SuryaR03/LU-Decomposition/assets/147140237/1de172dd-ce14-4632-9f6d-60af853c5e01)
+
 
 
 
